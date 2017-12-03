@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82cfb1add59fc2a49b1b90ee5862e8e5
+timeCreated: 1487081555
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BrokenScreenShader: {fileID: 4800000, guid: 3e4a4d3a84e1ae04886862c59c36c0a3,
+      type: 3}
+  - BumpMap: {fileID: 2800000, guid: 08c22f7f654594a4ab31ce76f44be84d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
